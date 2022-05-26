@@ -1,9 +1,5 @@
 Olá! Eu sou o Natan 👋
 
-- 💻 Procurando minha primeira experiência 
-- 📖 Estudando design de apps
-- 💡 Fato interessante: sabia que o React Native é a plataforma cruzada móvel mais usada globalmente?
-
 <div align="center">
   <a href="https://github.com/natan-andrade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natan-andrade&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
