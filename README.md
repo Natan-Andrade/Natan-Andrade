@@ -1,3 +1,20 @@
+<h1 align="center"> ✨ Welcome to Amanda's Studies ✨</h1>
+
+ <h3 align="center"> I'm Amanda Lobo (She | Her)👩‍💻</h3>
+
+<p align="center">:computer:  I'm Full-Stack Developer Jr, from São Paulo, Brazil.
+<p align="center">:books: Always looking for new learning.
+
+ ##
+
+<div align="center">
+   <a href="https://github.com/Natan-Andrade">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Natan-Andrade&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&layout=compact&hide=issues,contribs&bg_color=00000000"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natan-Andrade&layout=compact&langs_count=7&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6"/>
+</div>
+
+
+
 Olá! Eu sou o Natan 👋
 
  - 💻 Procurando minha primeira experiência profissional
