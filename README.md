@@ -1,12 +1,12 @@
 <h1 align="center"> Welcome </h1>
 
- <h3 align="center"> Eu sou o Natan 👋 </h3>
+ <h3 align="center">Olá! Eu sou o Natan 👋</h3>
 
 <p align="center">:computer:  Sou um desenvolvedor Front-end Jr e estou estudando Back-end.</p>
 <p align="center">:books: Sempre em busca de algo novo para aprender.</p>
  
  
- <p align="center"> - 📖 Estudando: Laravel  <img align="center" alt="Laravel" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"></p>
+ <p align="center">- 📖 Estudando: Laravel  <img align="center" alt="Laravel" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"></p>
 
  ##
 
