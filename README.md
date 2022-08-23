@@ -1,9 +1,12 @@
-<h1 align="center"> ✨ Welcome to Amanda's Studies ✨</h1>
+<h1 align="center"> 💻 Bem vindo ao meu Perfil 💻</h1>
 
- <h3 align="center"> I'm Amanda Lobo (She | Her)👩‍💻</h3>
+ <h3 align="center"> Eu sou o Natan 👋 </h3>
 
-<p align="center">:computer:  I'm Full-Stack Developer Jr, from São Paulo, Brazil.
-<p align="center">:books: Always looking for new learning.
+<p align="center">:computer:  Sou um desenvolvedor Front-end Jr e estou estudando Back-end.</p>
+<p align="center">:books: Sempre em busca de algo novo para aprender.</p>
+ 
+ 
+ <p align="center"> - 📖 Estudando: Laravel  <img align="center" alt="Laravel" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"></p>
 
  ##
 
@@ -13,20 +16,6 @@
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natan-Andrade&layout=compact&langs_count=7&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6"/>
 </div>
 
-
-
-Olá! Eu sou o Natan 👋
-
- - 💻 Procurando minha primeira experiência profissional
- - 📖 Estudando Laravel  <img align="center" alt="Laravel" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-
-<div align="center">
-  <a href="https://github.com/natan-andrade">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=natan-andrade&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natan-andrade&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
