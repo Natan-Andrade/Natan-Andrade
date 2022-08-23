@@ -1,7 +1,7 @@
 Olá! Eu sou o Natan 👋
 
  - 💻 Procurando minha primeira experiência profissional
- - 📖 Estudando Laravel
+ - 📖 Estudando Laravel  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
 
 <div align="center">
   <a href="https://github.com/natan-andrade">
