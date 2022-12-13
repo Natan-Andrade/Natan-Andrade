@@ -4,9 +4,6 @@
 
 <p align="center">:computer: desenvolvedor Front-end e Back-end.</p>
 <p align="center">:books: Sempre em busca de algo novo para aprender.</p>
- 
- 
- <p align="center">- 📖 Estudando: Laravel  <img align="center" alt="Laravel" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"></p>
 
  ##
 
