@@ -2,7 +2,7 @@
 
  <h3 align="center">Olá! Eu sou o Natan 👋</h3>
 
-<p align="center">:computer:  Sou um desenvolvedor Front-end Jr e estou estudando Back-end.</p>
+<p align="center">:computer: desenvolvedor Front-end e Back-end.</p>
 <p align="center">:books: Sempre em busca de algo novo para aprender.</p>
  
  
